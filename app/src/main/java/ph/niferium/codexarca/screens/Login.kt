@@ -159,7 +159,7 @@ fun LoginScreen() {
                     onDone = { focusManager.clearFocus() }),
                 singleLine = true
             )
-
+            //Buttons can have Circular progress loading indicator
             Button(
                 enabled = true,
                 onClick = {},
