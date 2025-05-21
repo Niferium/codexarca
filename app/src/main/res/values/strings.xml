@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">codexarca</string>
     <string name="codex_arca">Codex Arca</string>
+    <string name="button_text_sample">Button Text Sample</string>
 </resources>
